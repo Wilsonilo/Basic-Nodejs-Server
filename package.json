@@ -1,0 +1,21 @@
+{
+  "name": "basicnodejsserver",
+  "version": "1.0.0",
+  "description": "A Basic Nodejs Boilerplate of CRUD operations on NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilson Muñoz",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-rate-limit": "^2.11.0",
+    "heroku-logger": "^0.3.0", // Optional
+    "mongoose": "^4.13.7",
+    "morgan": "^1.9.0"
+  }
+}
