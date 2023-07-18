@@ -16,7 +16,7 @@
     "express": "^4.16.2",
     "express-rate-limit": "^2.11.0",
     "heroku-logger": "^0.3.0",
-    "mongoose": "^5.7.5",
+    "mongoose": "^5.13.20",
     "morgan": "^1.9.1"
   }
 }
