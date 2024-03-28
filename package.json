@@ -13,7 +13,7 @@
     "bluebird": "^3.5.1",
     "bson": ">=1.1.4",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.19.2",
     "express-rate-limit": "^2.11.0",
     "heroku-logger": "^0.3.0",
     "mongoose": "^5.13.20",
